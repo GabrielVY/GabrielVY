@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @GabrielVY
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C# and Java
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVY)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 GabrielVY/GabrielVY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
