@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVY)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVY&show_icons=true&theme=midnight-purple)
 
 <!---
 GabrielVY/GabrielVY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
