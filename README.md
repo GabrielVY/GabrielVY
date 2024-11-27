@@ -9,7 +9,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tesseract-1K.gif/256px-Tesseract-1K.gif" height="50" />
     
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVY&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVY&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielVY&show_icons=true&count_private=true&layout=donut-vertical&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
   
   <hr/>
 
